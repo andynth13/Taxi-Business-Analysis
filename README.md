@@ -20,4 +20,8 @@ The data was taken from [Kaggle New York City Taxi Trip](https://www.kaggle.com/
 | Passenger demand reduced significantly in harsh weather, but not the tip | Ensure safety while encouraging more drivers to take trips during harsh weather by offering incentives. |
 | The taxi operation is popular in certain neighborhoods. | For other areas, there is still room to serve more passengers and gain market share. <br>Allocate more drivers to those areas with moderate demand and high tips (>20%). <br>Promote presence in those valuable neighborhoods. |
 
+## Next action
 
+1. Collaborate with Marketings to plan the suitable approach for the potential customer.
+2. Present these insights to Partners Service Team and get their feedback on how to allocate number of Drivers efficiently.
+3. Further analysis about customer sentiment on those high/ low tip trip can be conducted with additional information about customer's rating and comment.
